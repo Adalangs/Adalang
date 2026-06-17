@@ -1,0 +1,2 @@
+# Adalang için herhangi bir harici bağımlılık yok.
+# Sadece Python 3.6 veya üzeri yeterli.
